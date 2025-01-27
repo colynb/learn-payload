@@ -1,19 +1,19 @@
-"use client";
-import React, { useState } from "react";
-import Image from "next/image";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { LocationSelect } from "@/components/location-select";
-import locations from "@/data/locations";
+'use client'
+import React, { useState } from 'react'
+import Image from 'next/image'
+import { Button } from '@/components/ui/button'
+import { Input } from '@/components/ui/input'
+import { LocationSelect } from '@/components/location-select'
+import locations from '@/data/locations'
 
 export const HeroWithSearch = () => {
-  const [keywords, setKeywords] = useState("");
-  const [location] = useState("");
+  const [keywords, setKeywords] = useState('')
+  const [location] = useState('')
 
   const handleSearch = (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault();
-    console.log("Search:", { keywords, location });
-  };
+    e.preventDefault()
+    console.log('Search:', { keywords, location })
+  }
 
   return (
     <div className="bg-brand-primary relative">
@@ -24,8 +24,7 @@ export const HeroWithSearch = () => {
               Discover Your Dream Home in East Tennessee!
             </h1>
             <h2 className="text-3xl lg:text-4xl text-white mb-8 leading-snug">
-              Your gateway to mountain living in America&apos;s adventure
-              capital!
+              Your gateway to mountain living in America&apos;s adventure capital!
             </h2>
           </div>
           {/* Search Form */}
@@ -33,7 +32,7 @@ export const HeroWithSearch = () => {
             <form onSubmit={handleSearch} className="space-y-4">
               <Input
                 type="text"
-                spread={"xl"}
+                spread={'xl'}
                 placeholder="Keywords"
                 value={keywords}
                 onChange={(e) => setKeywords(e.target.value)}
@@ -61,5 +60,5 @@ export const HeroWithSearch = () => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}

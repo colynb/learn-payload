@@ -1,0 +1,3182 @@
+[
+  {
+    "value": "189",
+    "label": "Acworth",
+    "type": "city"
+  },
+  {
+    "value": "205",
+    "label": "Adairsville",
+    "type": "city"
+  },
+  {
+    "value": "206",
+    "label": "Adairville",
+    "type": "city"
+  },
+  {
+    "value": "220",
+    "label": "Adams",
+    "type": "city"
+  },
+  {
+    "value": "241",
+    "label": "Adamsville",
+    "type": "city"
+  },
+  {
+    "value": "288",
+    "label": "Adolphus",
+    "type": "city"
+  },
+  {
+    "value": "434",
+    "label": "Alamo",
+    "type": "city"
+  },
+  {
+    "value": "457",
+    "label": "Albany",
+    "type": "city"
+  },
+  {
+    "value": "588",
+    "label": "Alexandria",
+    "type": "city"
+  },
+  {
+    "value": "648",
+    "label": "Allardt",
+    "type": "city"
+  },
+  {
+    "value": "696",
+    "label": "Allensville",
+    "type": "city"
+  },
+  {
+    "value": "737",
+    "label": "Allons",
+    "type": "city"
+  },
+  {
+    "value": "772",
+    "label": "Almo",
+    "type": "city"
+  },
+  {
+    "value": "805",
+    "label": "Alpharetta",
+    "type": "city"
+  },
+  {
+    "value": "820",
+    "label": "Alpine",
+    "type": "city"
+  },
+  {
+    "value": "904",
+    "label": "Altamont",
+    "type": "city"
+  },
+  {
+    "value": "994",
+    "label": "Alvaton",
+    "type": "city"
+  },
+  {
+    "value": "1182",
+    "label": "Anderson",
+    "type": "city"
+  },
+  {
+    "value": "1200",
+    "label": "Andersonville",
+    "type": "city"
+  },
+  {
+    "value": "1332",
+    "label": "Antioch",
+    "type": "city"
+  },
+  {
+    "value": "1364",
+    "label": "Apison",
+    "type": "city"
+  },
+  {
+    "value": "1415",
+    "label": "Arab",
+    "type": "city"
+  },
+  {
+    "value": "1514",
+    "label": "Ardmore",
+    "type": "city"
+  },
+  {
+    "value": "1507",
+    "label": "Ardmore",
+    "type": "city"
+  },
+  {
+    "value": "1585",
+    "label": "Arley",
+    "type": "city"
+  },
+  {
+    "value": "1607",
+    "label": "Arlington",
+    "type": "city"
+  },
+  {
+    "value": "1685",
+    "label": "Arrington",
+    "type": "city"
+  },
+  {
+    "value": "1813",
+    "label": "Ashland City",
+    "type": "city"
+  },
+  {
+    "value": "1888",
+    "label": "Athens",
+    "type": "city"
+  },
+  {
+    "value": "1900",
+    "label": "Athens",
+    "type": "city"
+  },
+  {
+    "value": "1996",
+    "label": "Atwood",
+    "type": "city"
+  },
+  {
+    "value": "2014",
+    "label": "Auburn",
+    "type": "city"
+  },
+  {
+    "value": "2036",
+    "label": "Auburntown",
+    "type": "city"
+  },
+  {
+    "value": "2046",
+    "label": "Augusta",
+    "type": "city"
+  },
+  {
+    "value": "2827",
+    "label": "Bath Springs",
+    "type": "city"
+  },
+  {
+    "value": "2872",
+    "label": "Baxter",
+    "type": "city"
+  },
+  {
+    "value": "3069",
+    "label": "Bean Station",
+    "type": "city"
+  },
+  {
+    "value": "3120",
+    "label": "Beattyville",
+    "type": "city"
+  },
+  {
+    "value": "3164",
+    "label": "Beaver Dam",
+    "type": "city"
+  },
+  {
+    "value": "3248",
+    "label": "Beech Bluff",
+    "type": "city"
+  },
+  {
+    "value": "3270",
+    "label": "Beechgrove",
+    "type": "city"
+  },
+  {
+    "value": "3285",
+    "label": "Beersheba Springs",
+    "type": "city"
+  },
+  {
+    "value": "3327",
+    "label": "Belfast",
+    "type": "city"
+  },
+  {
+    "value": "3350",
+    "label": "Bell Buckle",
+    "type": "city"
+  },
+  {
+    "value": "3473",
+    "label": "Bells",
+    "type": "city"
+  },
+  {
+    "value": "3533",
+    "label": "Belton",
+    "type": "city"
+  },
+  {
+    "value": "3550",
+    "label": "Belvidere",
+    "type": "city"
+  },
+  {
+    "value": "3678",
+    "label": "Benton",
+    "type": "city"
+  },
+  {
+    "value": "3670",
+    "label": "Benton",
+    "type": "city"
+  },
+  {
+    "value": "3881",
+    "label": "Bethel Springs",
+    "type": "city"
+  },
+  {
+    "value": "3905",
+    "label": "Bethpage",
+    "type": "city"
+  },
+  {
+    "value": "4046",
+    "label": "Big Rock",
+    "type": "city"
+  },
+  {
+    "value": "4051",
+    "label": "Big Sandy",
+    "type": "city"
+  },
+  {
+    "value": "4159",
+    "label": "Birchwood",
+    "type": "city"
+  },
+  {
+    "value": "4338",
+    "label": "Blaine",
+    "type": "city"
+  },
+  {
+    "value": "4508",
+    "label": "Bloomington Springs",
+    "type": "city"
+  },
+  {
+    "value": "4581",
+    "label": "Blue Ridge",
+    "type": "city"
+  },
+  {
+    "value": "4783",
+    "label": "Boaz",
+    "type": "city"
+  },
+  {
+    "value": "4861",
+    "label": "Bolivar",
+    "type": "city"
+  },
+  {
+    "value": "4887",
+    "label": "Bon Aqua",
+    "type": "city"
+  },
+  {
+    "value": "5157",
+    "label": "Bowling Green",
+    "type": "city"
+  },
+  {
+    "value": "5280",
+    "label": "Bradford",
+    "type": "city"
+  },
+  {
+    "value": "5316",
+    "label": "Bradyville",
+    "type": "city"
+  },
+  {
+    "value": "5494",
+    "label": "Brentwood",
+    "type": "city"
+  },
+  {
+    "value": "5554",
+    "label": "Bridgeport",
+    "type": "city"
+  },
+  {
+    "value": "5712",
+    "label": "Bristol",
+    "type": "city"
+  },
+  {
+    "value": "5937",
+    "label": "Browder",
+    "type": "city"
+  },
+  {
+    "value": "5974",
+    "label": "Brownsboro",
+    "type": "city"
+  },
+  {
+    "value": "5997",
+    "label": "Brownsville",
+    "type": "city"
+  },
+  {
+    "value": "6023",
+    "label": "Bruceton",
+    "type": "city"
+  },
+  {
+    "value": "6071",
+    "label": "Brush Creek",
+    "type": "city"
+  },
+  {
+    "value": "6096",
+    "label": "Bryant",
+    "type": "city"
+  },
+  {
+    "value": "6130",
+    "label": "Buchanan",
+    "type": "city"
+  },
+  {
+    "value": "6229",
+    "label": "Buena Vista",
+    "type": "city"
+  },
+  {
+    "value": "6269",
+    "label": "Buffalo Valley",
+    "type": "city"
+  },
+  {
+    "value": "6305",
+    "label": "Bumpus Mills",
+    "type": "city"
+  },
+  {
+    "value": "6372",
+    "label": "Burkesville",
+    "type": "city"
+  },
+  {
+    "value": "6446",
+    "label": "Burns",
+    "type": "city"
+  },
+  {
+    "value": "6560",
+    "label": "Butler",
+    "type": "city"
+  },
+  {
+    "value": "6624",
+    "label": "Byrdstown",
+    "type": "city"
+  },
+  {
+    "value": "6685",
+    "label": "Cadiz",
+    "type": "city"
+  },
+  {
+    "value": "6765",
+    "label": "Calhoun",
+    "type": "city"
+  },
+  {
+    "value": "6759",
+    "label": "Calhoun",
+    "type": "city"
+  },
+  {
+    "value": "6901",
+    "label": "Camden",
+    "type": "city"
+  },
+  {
+    "value": "7089",
+    "label": "Canmer",
+    "type": "city"
+  },
+  {
+    "value": "7124",
+    "label": "Canton",
+    "type": "city"
+  },
+  {
+    "value": "7486",
+    "label": "Cartersville",
+    "type": "city"
+  },
+  {
+    "value": "7506",
+    "label": "Carthage",
+    "type": "city"
+  },
+  {
+    "value": "7533",
+    "label": "Caryville",
+    "type": "city"
+  },
+  {
+    "value": "7613",
+    "label": "Castalian Springs",
+    "type": "city"
+  },
+  {
+    "value": "7718",
+    "label": "Cave City",
+    "type": "city"
+  },
+  {
+    "value": "7774",
+    "label": "Cedar Bluff",
+    "type": "city"
+  },
+  {
+    "value": "7805",
+    "label": "Cedar Grove",
+    "type": "city"
+  },
+  {
+    "value": "7812",
+    "label": "Cedar Hill",
+    "type": "city"
+  },
+  {
+    "value": "7894",
+    "label": "Celina",
+    "type": "city"
+  },
+  {
+    "value": "7998",
+    "label": "Centerville",
+    "type": "city"
+  },
+  {
+    "value": "8020",
+    "label": "Central City",
+    "type": "city"
+  },
+  {
+    "value": "8053",
+    "label": "Centre",
+    "type": "city"
+  },
+  {
+    "value": "8085",
+    "label": "Cerulean",
+    "type": "city"
+  },
+  {
+    "value": "8187",
+    "label": "Chapel Hill",
+    "type": "city"
+  },
+  {
+    "value": "8205",
+    "label": "Chapmansboro",
+    "type": "city"
+  },
+  {
+    "value": "8243",
+    "label": "Charleston",
+    "type": "city"
+  },
+  {
+    "value": "8265",
+    "label": "Charlotte",
+    "type": "city"
+  },
+  {
+    "value": "8323",
+    "label": "Chatsworth",
+    "type": "city"
+  },
+  {
+    "value": "8331",
+    "label": "Chattanooga",
+    "type": "city"
+  },
+  {
+    "value": "61212",
+    "label": "Cherry Log",
+    "type": "city"
+  },
+  {
+    "value": "8542",
+    "label": "Chestnut Mound",
+    "type": "city"
+  },
+  {
+    "value": "8579",
+    "label": "Chickamauga",
+    "type": "city"
+  },
+  {
+    "value": "8715",
+    "label": "Christiana",
+    "type": "city"
+  },
+  {
+    "value": "8752",
+    "label": "Church Hill",
+    "type": "city"
+  },
+  {
+    "value": "8810",
+    "label": "Cisco",
+    "type": "city"
+  },
+  {
+    "value": "8932",
+    "label": "Clarkrange",
+    "type": "city"
+  },
+  {
+    "value": "8989",
+    "label": "Clarksville",
+    "type": "city"
+  },
+  {
+    "value": "9183",
+    "label": "Cleveland",
+    "type": "city"
+  },
+  {
+    "value": "9233",
+    "label": "Clifton",
+    "type": "city"
+  },
+  {
+    "value": "9290",
+    "label": "Clinton",
+    "type": "city"
+  },
+  {
+    "value": "9272",
+    "label": "Clinton",
+    "type": "city"
+  },
+  {
+    "value": "9430",
+    "label": "Coalmont",
+    "type": "city"
+  },
+  {
+    "value": "9538",
+    "label": "Cohutta",
+    "type": "city"
+  },
+  {
+    "value": "9682",
+    "label": "College Grove",
+    "type": "city"
+  },
+  {
+    "value": "9701",
+    "label": "Collegedale",
+    "type": "city"
+  },
+  {
+    "value": "9713",
+    "label": "Collierville",
+    "type": "city"
+  },
+  {
+    "value": "9741",
+    "label": "Collinwood",
+    "type": "city"
+  },
+  {
+    "value": "9824",
+    "label": "Columbia",
+    "type": "city"
+  },
+  {
+    "value": "9810",
+    "label": "Columbia",
+    "type": "city"
+  },
+  {
+    "value": "9844",
+    "label": "Columbus",
+    "type": "city"
+  },
+  {
+    "value": "10134",
+    "label": "Cookeville",
+    "type": "city"
+  },
+  {
+    "value": "10231",
+    "label": "Copperhill",
+    "type": "city"
+  },
+  {
+    "value": "10281",
+    "label": "Cordova",
+    "type": "city"
+  },
+  {
+    "value": "10325",
+    "label": "Cornersville",
+    "type": "city"
+  },
+  {
+    "value": "10390",
+    "label": "Corryton",
+    "type": "city"
+  },
+  {
+    "value": "10426",
+    "label": "Cosby",
+    "type": "city"
+  },
+  {
+    "value": "10454",
+    "label": "Cottage Grove",
+    "type": "city"
+  },
+  {
+    "value": "10483",
+    "label": "Cottontown",
+    "type": "city"
+  },
+  {
+    "value": "10520",
+    "label": "Counce",
+    "type": "city"
+  },
+  {
+    "value": "10598",
+    "label": "Covington",
+    "type": "city"
+  },
+  {
+    "value": "10605",
+    "label": "Cowan",
+    "type": "city"
+  },
+  {
+    "value": "10652",
+    "label": "Crab Orchard",
+    "type": "city"
+  },
+  {
+    "value": "10702",
+    "label": "Crandall",
+    "type": "city"
+  },
+  {
+    "value": "10744",
+    "label": "Crawford",
+    "type": "city"
+  },
+  {
+    "value": "10893",
+    "label": "Crofton",
+    "type": "city"
+  },
+  {
+    "value": "10950",
+    "label": "Cross Plains",
+    "type": "city"
+  },
+  {
+    "value": "10975",
+    "label": "Crossville",
+    "type": "city"
+  },
+  {
+    "value": "10973",
+    "label": "Crossville",
+    "type": "city"
+  },
+  {
+    "value": "11035",
+    "label": "Crump",
+    "type": "city"
+  },
+  {
+    "value": "11115",
+    "label": "Culleoka",
+    "type": "city"
+  },
+  {
+    "value": "11147",
+    "label": "Cumberland City",
+    "type": "city"
+  },
+  {
+    "value": "11150",
+    "label": "Cumberland Furnace",
+    "type": "city"
+  },
+  {
+    "value": "11174",
+    "label": "Cunningham",
+    "type": "city"
+  },
+  {
+    "value": "11293",
+    "label": "Cypress Inn",
+    "type": "city"
+  },
+  {
+    "value": "11395",
+    "label": "Dalton",
+    "type": "city"
+  },
+  {
+    "value": "11433",
+    "label": "Dana",
+    "type": "city"
+  },
+  {
+    "value": "11450",
+    "label": "Dandridge",
+    "type": "city"
+  },
+  {
+    "value": "11515",
+    "label": "Darden",
+    "type": "city"
+  },
+  {
+    "value": "11636",
+    "label": "Dawson Springs",
+    "type": "city"
+  },
+  {
+    "value": "11638",
+    "label": "Dawsonville",
+    "type": "city"
+  },
+  {
+    "value": "11668",
+    "label": "Dayton",
+    "type": "city"
+  },
+  {
+    "value": "11758",
+    "label": "Decatur",
+    "type": "city"
+  },
+  {
+    "value": "11746",
+    "label": "Decatur",
+    "type": "city"
+  },
+  {
+    "value": "11760",
+    "label": "Decaturville",
+    "type": "city"
+  },
+  {
+    "value": "11761",
+    "label": "Decherd",
+    "type": "city"
+  },
+  {
+    "value": "11806",
+    "label": "Deer Lodge",
+    "type": "city"
+  },
+  {
+    "value": "11891",
+    "label": "Del Rio",
+    "type": "city"
+  },
+  {
+    "value": "11908",
+    "label": "Delano",
+    "type": "city"
+  },
+  {
+    "value": "11951",
+    "label": "Dellrose",
+    "type": "city"
+  },
+  {
+    "value": "12040",
+    "label": "Denmark",
+    "type": "city"
+  },
+  {
+    "value": "12297",
+    "label": "Dickson",
+    "type": "city"
+  },
+  {
+    "value": "12411",
+    "label": "Dixon Springs",
+    "type": "city"
+  },
+  {
+    "value": "12666",
+    "label": "Dover",
+    "type": "city"
+  },
+  {
+    "value": "12680",
+    "label": "Dowelltown",
+    "type": "city"
+  },
+  {
+    "value": "12702",
+    "label": "Doyle",
+    "type": "city"
+  },
+  {
+    "value": "12724",
+    "label": "Drakesboro",
+    "type": "city"
+  },
+  {
+    "value": "12751",
+    "label": "Dresden",
+    "type": "city"
+  },
+  {
+    "value": "12794",
+    "label": "Drummonds",
+    "type": "city"
+  },
+  {
+    "value": "12873",
+    "label": "Duck River",
+    "type": "city"
+  },
+  {
+    "value": "12875",
+    "label": "Ducktown",
+    "type": "city"
+  },
+  {
+    "value": "12912",
+    "label": "Dukedom",
+    "type": "city"
+  },
+  {
+    "value": "13009",
+    "label": "Dunlap",
+    "type": "city"
+  },
+  {
+    "value": "13018",
+    "label": "Dunmor",
+    "type": "city"
+  },
+  {
+    "value": "13130",
+    "label": "Dyer",
+    "type": "city"
+  },
+  {
+    "value": "13132",
+    "label": "Dyersburg",
+    "type": "city"
+  },
+  {
+    "value": "13142",
+    "label": "Eads",
+    "type": "city"
+  },
+  {
+    "value": "13205",
+    "label": "Eagleville",
+    "type": "city"
+  },
+  {
+    "value": "13818",
+    "label": "Eddyville",
+    "type": "city"
+  },
+  {
+    "value": "13947",
+    "label": "Edmonton",
+    "type": "city"
+  },
+  {
+    "value": "14227",
+    "label": "Elizabethton",
+    "type": "city"
+  },
+  {
+    "value": "14262",
+    "label": "Elk Horn",
+    "type": "city"
+  },
+  {
+    "value": "14304",
+    "label": "Elkmont",
+    "type": "city"
+  },
+  {
+    "value": "14322",
+    "label": "Elkton",
+    "type": "city"
+  },
+  {
+    "value": "14315",
+    "label": "Elkton",
+    "type": "city"
+  },
+  {
+    "value": "14359",
+    "label": "Ellijay",
+    "type": "city"
+  },
+  {
+    "value": "14493",
+    "label": "Elmwood",
+    "type": "city"
+  },
+  {
+    "value": "14506",
+    "label": "Elora",
+    "type": "city"
+  },
+  {
+    "value": "14717",
+    "label": "Englewood",
+    "type": "city"
+  },
+  {
+    "value": "14787",
+    "label": "Enville",
+    "type": "city"
+  },
+  {
+    "value": "14842",
+    "label": "Erin",
+    "type": "city"
+  },
+  {
+    "value": "14865",
+    "label": "Erwin",
+    "type": "city"
+  },
+  {
+    "value": "14989",
+    "label": "Estill Springs",
+    "type": "city"
+  },
+  {
+    "value": "15005",
+    "label": "Ethridge",
+    "type": "city"
+  },
+  {
+    "value": "15022",
+    "label": "Eton",
+    "type": "city"
+  },
+  {
+    "value": "15025",
+    "label": "Etowah",
+    "type": "city"
+  },
+  {
+    "value": "15093",
+    "label": "Eva",
+    "type": "city"
+  },
+  {
+    "value": "15134",
+    "label": "Evensville",
+    "type": "city"
+  },
+  {
+    "value": "15340",
+    "label": "Fackler",
+    "type": "city"
+  },
+  {
+    "value": "15480",
+    "label": "Fairmount",
+    "type": "city"
+  },
+  {
+    "value": "15521",
+    "label": "Fairview",
+    "type": "city"
+  },
+  {
+    "value": "15715",
+    "label": "Farner",
+    "type": "city"
+  },
+  {
+    "value": "15782",
+    "label": "Fayetteville",
+    "type": "city"
+  },
+  {
+    "value": "15775",
+    "label": "Fayetteville",
+    "type": "city"
+  },
+  {
+    "value": "15980",
+    "label": "Finger",
+    "type": "city"
+  },
+  {
+    "value": "16085",
+    "label": "Five Points",
+    "type": "city"
+  },
+  {
+    "value": "16114",
+    "label": "Flat Rock",
+    "type": "city"
+  },
+  {
+    "value": "16178",
+    "label": "Flintstone",
+    "type": "city"
+  },
+  {
+    "value": "16181",
+    "label": "Flintville",
+    "type": "city"
+  },
+  {
+    "value": "16205",
+    "label": "Florence",
+    "type": "city"
+  },
+  {
+    "value": "16596",
+    "label": "Fort Mill",
+    "type": "city"
+  },
+  {
+    "value": "16613",
+    "label": "Fort Oglethorpe",
+    "type": "city"
+  },
+  {
+    "value": "16615",
+    "label": "Fort Payne",
+    "type": "city"
+  },
+  {
+    "value": "16750",
+    "label": "Fountain Run",
+    "type": "city"
+  },
+  {
+    "value": "16855",
+    "label": "Frankewing",
+    "type": "city"
+  },
+  {
+    "value": "16896",
+    "label": "Franklin",
+    "type": "city"
+  },
+  {
+    "value": "16880",
+    "label": "Franklin",
+    "type": "city"
+  },
+  {
+    "value": "17123",
+    "label": "Friendship",
+    "type": "city"
+  },
+  {
+    "value": "17130",
+    "label": "Friendsville",
+    "type": "city"
+  },
+  {
+    "value": "17233",
+    "label": "Fulton",
+    "type": "city"
+  },
+  {
+    "value": "17286",
+    "label": "Gadsden",
+    "type": "city"
+  },
+  {
+    "value": "17300",
+    "label": "Gainesboro",
+    "type": "city"
+  },
+  {
+    "value": "17359",
+    "label": "Gallatin",
+    "type": "city"
+  },
+  {
+    "value": "17398",
+    "label": "Gamaliel",
+    "type": "city"
+  },
+  {
+    "value": "17631",
+    "label": "Gatlinburg",
+    "type": "city"
+  },
+  {
+    "value": "17762",
+    "label": "Georgetown",
+    "type": "city"
+  },
+  {
+    "value": "17795",
+    "label": "Germantown",
+    "type": "city"
+  },
+  {
+    "value": "17883",
+    "label": "Gilbertsville",
+    "type": "city"
+  },
+  {
+    "value": "18007",
+    "label": "Glasgow",
+    "type": "city"
+  },
+  {
+    "value": "18028",
+    "label": "Gleason",
+    "type": "city"
+  },
+  {
+    "value": "18433",
+    "label": "Goodlettsville",
+    "type": "city"
+  },
+  {
+    "value": "18447",
+    "label": "Goodspring",
+    "type": "city"
+  },
+  {
+    "value": "18495",
+    "label": "Gordonsville",
+    "type": "city"
+  },
+  {
+    "value": "18588",
+    "label": "Gracey",
+    "type": "city"
+  },
+  {
+    "value": "18679",
+    "label": "Grand Junction",
+    "type": "city"
+  },
+  {
+    "value": "18730",
+    "label": "Grandview",
+    "type": "city"
+  },
+  {
+    "value": "18779",
+    "label": "Grant",
+    "type": "city"
+  },
+  {
+    "value": "18830",
+    "label": "Granville",
+    "type": "city"
+  },
+  {
+    "value": "18938",
+    "label": "Graysville",
+    "type": "city"
+  },
+  {
+    "value": "18933",
+    "label": "Graysville",
+    "type": "city"
+  },
+  {
+    "value": "19049",
+    "label": "Greenback",
+    "type": "city"
+  },
+  {
+    "value": "19062",
+    "label": "Greenbrier",
+    "type": "city"
+  },
+  {
+    "value": "19093",
+    "label": "Greeneville",
+    "type": "city"
+  },
+  {
+    "value": "19106",
+    "label": "Greenfield",
+    "type": "city"
+  },
+  {
+    "value": "19173",
+    "label": "Greenville",
+    "type": "city"
+  },
+  {
+    "value": "19313",
+    "label": "Grimsley",
+    "type": "city"
+  },
+  {
+    "value": "19407",
+    "label": "Gruetli Laager",
+    "type": "city"
+  },
+  {
+    "value": "19450",
+    "label": "Guild",
+    "type": "city"
+  },
+  {
+    "value": "19470",
+    "label": "Guin",
+    "type": "city"
+  },
+  {
+    "value": "19517",
+    "label": "Guntersville",
+    "type": "city"
+  },
+  {
+    "value": "19536",
+    "label": "Guthrie",
+    "type": "city"
+  },
+  {
+    "value": "19750",
+    "label": "Halls",
+    "type": "city"
+  },
+  {
+    "value": "19883",
+    "label": "Hampshire",
+    "type": "city"
+  },
+  {
+    "value": "20064",
+    "label": "Hardin",
+    "type": "city"
+  },
+  {
+    "value": "20179",
+    "label": "Harriman",
+    "type": "city"
+  },
+  {
+    "value": "20219",
+    "label": "Harrison",
+    "type": "city"
+  },
+  {
+    "value": "20325",
+    "label": "Hartsville",
+    "type": "city"
+  },
+  {
+    "value": "20345",
+    "label": "Harvest",
+    "type": "city"
+  },
+  {
+    "value": "20602",
+    "label": "Hazel Green",
+    "type": "city"
+  },
+  {
+    "value": "20740",
+    "label": "Heiskell",
+    "type": "city"
+  },
+  {
+    "value": "20764",
+    "label": "Helenwood",
+    "type": "city"
+  },
+  {
+    "value": "20809",
+    "label": "Henagar",
+    "type": "city"
+  },
+  {
+    "value": "20823",
+    "label": "Henderson",
+    "type": "city"
+  },
+  {
+    "value": "20828",
+    "label": "Hendersonville",
+    "type": "city"
+  },
+  {
+    "value": "20830",
+    "label": "Hendersonville",
+    "type": "city"
+  },
+  {
+    "value": "20870",
+    "label": "Henry",
+    "type": "city"
+  },
+  {
+    "value": "20930",
+    "label": "Hermitage",
+    "type": "city"
+  },
+  {
+    "value": "20944",
+    "label": "Herndon",
+    "type": "city"
+  },
+  {
+    "value": "20993",
+    "label": "Hestand",
+    "type": "city"
+  },
+  {
+    "value": "21038",
+    "label": "Hickman",
+    "type": "city"
+  },
+  {
+    "value": "21036",
+    "label": "Hickman",
+    "type": "city"
+  },
+  {
+    "value": "21062",
+    "label": "Hickory Valley",
+    "type": "city"
+  },
+  {
+    "value": "21091",
+    "label": "Higdon",
+    "type": "city"
+  },
+  {
+    "value": "21221",
+    "label": "Hilham",
+    "type": "city"
+  },
+  {
+    "value": "21289",
+    "label": "Hillsboro",
+    "type": "city"
+  },
+  {
+    "value": "21413",
+    "label": "Hixson",
+    "type": "city"
+  },
+  {
+    "value": "21483",
+    "label": "Hohenwald",
+    "type": "city"
+  },
+  {
+    "value": "21531",
+    "label": "Holladay",
+    "type": "city"
+  },
+  {
+    "value": "21581",
+    "label": "Hollow Rock",
+    "type": "city"
+  },
+  {
+    "value": "21615",
+    "label": "Hollytree",
+    "type": "city"
+  },
+  {
+    "value": "21616",
+    "label": "Hollywood",
+    "type": "city"
+  },
+  {
+    "value": "21848",
+    "label": "Hopkinsville",
+    "type": "city"
+  },
+  {
+    "value": "21872",
+    "label": "Hornbeak",
+    "type": "city"
+  },
+  {
+    "value": "21885",
+    "label": "Hornsby",
+    "type": "city"
+  },
+  {
+    "value": "22167",
+    "label": "Humboldt",
+    "type": "city"
+  },
+  {
+    "value": "22226",
+    "label": "Huntingdon",
+    "type": "city"
+  },
+  {
+    "value": "22251",
+    "label": "Huntland",
+    "type": "city"
+  },
+  {
+    "value": "22264",
+    "label": "Huntsville",
+    "type": "city"
+  },
+  {
+    "value": "22271",
+    "label": "Huntsville",
+    "type": "city"
+  },
+  {
+    "value": "22295",
+    "label": "Huron",
+    "type": "city"
+  },
+  {
+    "value": "22302",
+    "label": "Hurricane Mills",
+    "type": "city"
+  },
+  {
+    "value": "22411",
+    "label": "Ider",
+    "type": "city"
+  },
+  {
+    "value": "22525",
+    "label": "Indian Mound",
+    "type": "city"
+  },
+  {
+    "value": "22733",
+    "label": "Iron City",
+    "type": "city"
+  },
+  {
+    "value": "22918",
+    "label": "Jacks Creek",
+    "type": "city"
+  },
+  {
+    "value": "22942",
+    "label": "Jackson",
+    "type": "city"
+  },
+  {
+    "value": "23043",
+    "label": "Jamestown",
+    "type": "city"
+  },
+  {
+    "value": "23177",
+    "label": "Jasper",
+    "type": "city"
+  },
+  {
+    "value": "23228",
+    "label": "Jefferson City",
+    "type": "city"
+  },
+  {
+    "value": "23255",
+    "label": "Jellico",
+    "type": "city"
+  },
+  {
+    "value": "23384",
+    "label": "Joelton",
+    "type": "city"
+  },
+  {
+    "value": "23415",
+    "label": "Johnson City",
+    "type": "city"
+  },
+  {
+    "value": "23491",
+    "label": "Jonesborough",
+    "type": "city"
+  },
+  {
+    "value": "23899",
+    "label": "Kelso",
+    "type": "city"
+  },
+  {
+    "value": "24035",
+    "label": "Kenton",
+    "type": "city"
+  },
+  {
+    "value": "24114",
+    "label": "Kevil",
+    "type": "city"
+  },
+  {
+    "value": "24201",
+    "label": "Killen",
+    "type": "city"
+  },
+  {
+    "value": "24326",
+    "label": "Kingsport",
+    "type": "city"
+  },
+  {
+    "value": "24348",
+    "label": "Kingston",
+    "type": "city"
+  },
+  {
+    "value": "24328",
+    "label": "Kingston",
+    "type": "city"
+  },
+  {
+    "value": "24354",
+    "label": "Kingston Springs",
+    "type": "city"
+  },
+  {
+    "value": "24430",
+    "label": "Kirksey",
+    "type": "city"
+  },
+  {
+    "value": "24577",
+    "label": "Knoxville",
+    "type": "city"
+  },
+  {
+    "value": "24582",
+    "label": "Kodak",
+    "type": "city"
+  },
+  {
+    "value": "24690",
+    "label": "Kuttawa",
+    "type": "city"
+  },
+  {
+    "value": "24702",
+    "label": "Kyles Ford",
+    "type": "city"
+  },
+  {
+    "value": "24741",
+    "label": "La Fayette",
+    "type": "city"
+  },
+  {
+    "value": "24743",
+    "label": "La Fayette",
+    "type": "city"
+  },
+  {
+    "value": "24748",
+    "label": "La Follette",
+    "type": "city"
+  },
+  {
+    "value": "24837",
+    "label": "La Vergne",
+    "type": "city"
+  },
+  {
+    "value": "24927",
+    "label": "Lafayette",
+    "type": "city"
+  },
+  {
+    "value": "24918",
+    "label": "Lafayette",
+    "type": "city"
+  },
+  {
+    "value": "24939",
+    "label": "Lafollette",
+    "type": "city"
+  },
+  {
+    "value": "25038",
+    "label": "Lake City",
+    "type": "city"
+  },
+  {
+    "value": "25457",
+    "label": "Lancaster",
+    "type": "city"
+  },
+  {
+    "value": "25464",
+    "label": "Lancing",
+    "type": "city"
+  },
+  {
+    "value": "25654",
+    "label": "Lascassas",
+    "type": "city"
+  },
+  {
+    "value": "25801",
+    "label": "Lawrenceburg",
+    "type": "city"
+  },
+  {
+    "value": "25926",
+    "label": "Lebanon",
+    "type": "city"
+  },
+  {
+    "value": "25948",
+    "label": "Ledbetter",
+    "type": "city"
+  },
+  {
+    "value": "25992",
+    "label": "Leesburg",
+    "type": "city"
+  },
+  {
+    "value": "26120",
+    "label": "Lenoir City",
+    "type": "city"
+  },
+  {
+    "value": "26151",
+    "label": "Leoma",
+    "type": "city"
+  },
+  {
+    "value": "26208",
+    "label": "Lester",
+    "type": "city"
+  },
+  {
+    "value": "26277",
+    "label": "Lewisburg",
+    "type": "city"
+  },
+  {
+    "value": "26273",
+    "label": "Lewisburg",
+    "type": "city"
+  },
+  {
+    "value": "26328",
+    "label": "Lexington",
+    "type": "city"
+  },
+  {
+    "value": "26309",
+    "label": "Lexington",
+    "type": "city"
+  },
+  {
+    "value": "26358",
+    "label": "Liberty",
+    "type": "city"
+  },
+  {
+    "value": "26557",
+    "label": "Linden",
+    "type": "city"
+  },
+  {
+    "value": "26836",
+    "label": "Livingston",
+    "type": "city"
+  },
+  {
+    "value": "26873",
+    "label": "Lobelville",
+    "type": "city"
+  },
+  {
+    "value": "27184",
+    "label": "Lookout Mountain",
+    "type": "city"
+  },
+  {
+    "value": "27183",
+    "label": "Lookout Mountain",
+    "type": "city"
+  },
+  {
+    "value": "27236",
+    "label": "Loretto",
+    "type": "city"
+  },
+  {
+    "value": "27313",
+    "label": "Loudon",
+    "type": "city"
+  },
+  {
+    "value": "27336",
+    "label": "Louisville",
+    "type": "city"
+  },
+  {
+    "value": "27340",
+    "label": "Louisville",
+    "type": "city"
+  },
+  {
+    "value": "27362",
+    "label": "Lovely",
+    "type": "city"
+  },
+  {
+    "value": "27589",
+    "label": "Lupton City",
+    "type": "city"
+  },
+  {
+    "value": "27596",
+    "label": "Luray",
+    "type": "city"
+  },
+  {
+    "value": "27619",
+    "label": "Lutts",
+    "type": "city"
+  },
+  {
+    "value": "27644",
+    "label": "Lyerly",
+    "type": "city"
+  },
+  {
+    "value": "27652",
+    "label": "Lyles",
+    "type": "city"
+  },
+  {
+    "value": "27677",
+    "label": "Lynchburg",
+    "type": "city"
+  },
+  {
+    "value": "27725",
+    "label": "Lynnville",
+    "type": "city"
+  },
+  {
+    "value": "27777",
+    "label": "Mableton",
+    "type": "city"
+  },
+  {
+    "value": "27835",
+    "label": "Macon",
+    "type": "city"
+  },
+  {
+    "value": "27892",
+    "label": "Madison",
+    "type": "city"
+  },
+  {
+    "value": "27869",
+    "label": "Madison",
+    "type": "city"
+  },
+  {
+    "value": "27908",
+    "label": "Madisonville",
+    "type": "city"
+  },
+  {
+    "value": "27905",
+    "label": "Madisonville",
+    "type": "city"
+  },
+  {
+    "value": "28124",
+    "label": "Manchester",
+    "type": "city"
+  },
+  {
+    "value": "28282",
+    "label": "Mansfield",
+    "type": "city"
+  },
+  {
+    "value": "28495",
+    "label": "Marietta",
+    "type": "city"
+  },
+  {
+    "value": "28528",
+    "label": "Marion",
+    "type": "city"
+  },
+  {
+    "value": "28711",
+    "label": "Martin",
+    "type": "city"
+  },
+  {
+    "value": "28792",
+    "label": "Maryville",
+    "type": "city"
+  },
+  {
+    "value": "28814",
+    "label": "Mason",
+    "type": "city"
+  },
+  {
+    "value": "28945",
+    "label": "Maury City",
+    "type": "city"
+  },
+  {
+    "value": "29007",
+    "label": "Mayfield",
+    "type": "city"
+  },
+  {
+    "value": "29033",
+    "label": "Maynardville",
+    "type": "city"
+  },
+  {
+    "value": "29156",
+    "label": "Mc Donald",
+    "type": "city"
+  },
+  {
+    "value": "29164",
+    "label": "Mc Ewen",
+    "type": "city"
+  },
+  {
+    "value": "29205",
+    "label": "Mc Kenzie",
+    "type": "city"
+  },
+  {
+    "value": "29225",
+    "label": "Mc Minnville",
+    "type": "city"
+  },
+  {
+    "value": "58478",
+    "label": "McMinnville",
+    "type": "city"
+  },
+  {
+    "value": "29548",
+    "label": "Medina",
+    "type": "city"
+  },
+  {
+    "value": "29557",
+    "label": "Medon",
+    "type": "city"
+  },
+  {
+    "value": "29663",
+    "label": "Memphis",
+    "type": "city"
+  },
+  {
+    "value": "29698",
+    "label": "Menlo",
+    "type": "city"
+  },
+  {
+    "value": "29718",
+    "label": "Mentone",
+    "type": "city"
+  },
+  {
+    "value": "29739",
+    "label": "Mercer",
+    "type": "city"
+  },
+  {
+    "value": "29947",
+    "label": "Michie",
+    "type": "city"
+  },
+  {
+    "value": "30031",
+    "label": "Middleton",
+    "type": "city"
+  },
+  {
+    "value": "30068",
+    "label": "Midland",
+    "type": "city"
+  },
+  {
+    "value": "30115",
+    "label": "Midway",
+    "type": "city"
+  },
+  {
+    "value": "30151",
+    "label": "Milan",
+    "type": "city"
+  },
+  {
+    "value": "30333",
+    "label": "Millington",
+    "type": "city"
+  },
+  {
+    "value": "30420",
+    "label": "Milton",
+    "type": "city"
+  },
+  {
+    "value": "30478",
+    "label": "Mineral Bluff",
+    "type": "city"
+  },
+  {
+    "value": "30542",
+    "label": "Minor Hill",
+    "type": "city"
+  },
+  {
+    "value": "30831",
+    "label": "Monroe",
+    "type": "city"
+  },
+  {
+    "value": "30898",
+    "label": "Monteagle",
+    "type": "city"
+  },
+  {
+    "value": "30914",
+    "label": "Monterey",
+    "type": "city"
+  },
+  {
+    "value": "30967",
+    "label": "Monticello",
+    "type": "city"
+  },
+  {
+    "value": "31178",
+    "label": "Morganton",
+    "type": "city"
+  },
+  {
+    "value": "31181",
+    "label": "Morgantown",
+    "type": "city"
+  },
+  {
+    "value": "31237",
+    "label": "Morris Chapel",
+    "type": "city"
+  },
+  {
+    "value": "31251",
+    "label": "Morrison",
+    "type": "city"
+  },
+  {
+    "value": "31265",
+    "label": "Morristown",
+    "type": "city"
+  },
+  {
+    "value": "31303",
+    "label": "Mortons Gap",
+    "type": "city"
+  },
+  {
+    "value": "31349",
+    "label": "Moss",
+    "type": "city"
+  },
+  {
+    "value": "31369",
+    "label": "Moulton",
+    "type": "city"
+  },
+  {
+    "value": "31496",
+    "label": "Mount Juliet",
+    "type": "city"
+  },
+  {
+    "value": "31553",
+    "label": "Mount Pleasant",
+    "type": "city"
+  },
+  {
+    "value": "31656",
+    "label": "Mountain City",
+    "type": "city"
+  },
+  {
+    "value": "31763",
+    "label": "Mulberry",
+    "type": "city"
+  },
+  {
+    "value": "31802",
+    "label": "Munford",
+    "type": "city"
+  },
+  {
+    "value": "31834",
+    "label": "Murfreesboro",
+    "type": "city"
+  },
+  {
+    "value": "31852",
+    "label": "Murray",
+    "type": "city"
+  },
+  {
+    "value": "31871",
+    "label": "Muscle Shoals",
+    "type": "city"
+  },
+  {
+    "value": "31950",
+    "label": "Nancy",
+    "type": "city"
+  },
+  {
+    "value": "32035",
+    "label": "Nashville",
+    "type": "city"
+  },
+  {
+    "value": "32148",
+    "label": "Nebo",
+    "type": "city"
+  },
+  {
+    "value": "32412",
+    "label": "New Concord",
+    "type": "city"
+  },
+  {
+    "value": "32529",
+    "label": "New Johnsonville",
+    "type": "city"
+  },
+  {
+    "value": "32581",
+    "label": "New Market",
+    "type": "city"
+  },
+  {
+    "value": "32574",
+    "label": "New Market",
+    "type": "city"
+  },
+  {
+    "value": "32697",
+    "label": "New Tazewell",
+    "type": "city"
+  },
+  {
+    "value": "32766",
+    "label": "Newbern",
+    "type": "city"
+  },
+  {
+    "value": "32877",
+    "label": "Newport",
+    "type": "city"
+  },
+  {
+    "value": "32863",
+    "label": "Newport",
+    "type": "city"
+  },
+  {
+    "value": "33030",
+    "label": "Niota",
+    "type": "city"
+  },
+  {
+    "value": "33091",
+    "label": "Nolensville",
+    "type": "city"
+  },
+  {
+    "value": "33163",
+    "label": "Normandy",
+    "type": "city"
+  },
+  {
+    "value": "33711",
+    "label": "Nortonville",
+    "type": "city"
+  },
+  {
+    "value": "33814",
+    "label": "Nunnelly",
+    "type": "city"
+  },
+  {
+    "value": "33869",
+    "label": "Oak Grove",
+    "type": "city"
+  },
+  {
+    "value": "33914",
+    "label": "Oak Ridge",
+    "type": "city"
+  },
+  {
+    "value": "33938",
+    "label": "Oakdale",
+    "type": "city"
+  },
+  {
+    "value": "33946",
+    "label": "Oakfield",
+    "type": "city"
+  },
+  {
+    "value": "33978",
+    "label": "Oakland",
+    "type": "city"
+  },
+  {
+    "value": "34061",
+    "label": "Obion",
+    "type": "city"
+  },
+  {
+    "value": "34114",
+    "label": "Ocoee",
+    "type": "city"
+  },
+  {
+    "value": "56101",
+    "label": "Old Fort",
+    "type": "city"
+  },
+  {
+    "value": "34314",
+    "label": "Old Hickory",
+    "type": "city"
+  },
+  {
+    "value": "34408",
+    "label": "Olivehill",
+    "type": "city"
+  },
+  {
+    "value": "34414",
+    "label": "Oliver Springs",
+    "type": "city"
+  },
+  {
+    "value": "34433",
+    "label": "Olmstead",
+    "type": "city"
+  },
+  {
+    "value": "34514",
+    "label": "Oneida",
+    "type": "city"
+  },
+  {
+    "value": "34529",
+    "label": "Only",
+    "type": "city"
+  },
+  {
+    "value": "34553",
+    "label": "Ooltewah",
+    "type": "city"
+  },
+  {
+    "value": "34730",
+    "label": "Orlinda",
+    "type": "city"
+  },
+  {
+    "value": "35005",
+    "label": "Owens Cross Roads",
+    "type": "city"
+  },
+  {
+    "value": "35008",
+    "label": "Owensboro",
+    "type": "city"
+  },
+  {
+    "value": "35125",
+    "label": "Paducah",
+    "type": "city"
+  },
+  {
+    "value": "35206",
+    "label": "Pall Mall",
+    "type": "city"
+  },
+  {
+    "value": "35241",
+    "label": "Palmer",
+    "type": "city"
+  },
+  {
+    "value": "35251",
+    "label": "Palmersville",
+    "type": "city"
+  },
+  {
+    "value": "35271",
+    "label": "Palmyra",
+    "type": "city"
+  },
+  {
+    "value": "35479",
+    "label": "Paris",
+    "type": "city"
+  },
+  {
+    "value": "35655",
+    "label": "Parsons",
+    "type": "city"
+  },
+  {
+    "value": "35968",
+    "label": "Pegram",
+    "type": "city"
+  },
+  {
+    "value": "35986",
+    "label": "Pelham",
+    "type": "city"
+  },
+  {
+    "value": "36017",
+    "label": "Pembroke",
+    "type": "city"
+  },
+  {
+    "value": "36299",
+    "label": "Petersburg",
+    "type": "city"
+  },
+  {
+    "value": "36371",
+    "label": "Philadelphia",
+    "type": "city"
+  },
+  {
+    "value": "36511",
+    "label": "Pigeon Forge",
+    "type": "city"
+  },
+  {
+    "value": "36528",
+    "label": "Pikeville",
+    "type": "city"
+  },
+  {
+    "value": "36729",
+    "label": "Piney Flats",
+    "type": "city"
+  },
+  {
+    "value": "36760",
+    "label": "Pinson",
+    "type": "city"
+  },
+  {
+    "value": "36761",
+    "label": "Pinsonfork",
+    "type": "city"
+  },
+  {
+    "value": "36773",
+    "label": "Pioneer",
+    "type": "city"
+  },
+  {
+    "value": "36798",
+    "label": "Pisgah",
+    "type": "city"
+  },
+  {
+    "value": "37036",
+    "label": "Pleasant Shade",
+    "type": "city"
+  },
+  {
+    "value": "37053",
+    "label": "Pleasant View",
+    "type": "city"
+  },
+  {
+    "value": "37151",
+    "label": "Pocahontas",
+    "type": "city"
+  },
+  {
+    "value": "37538",
+    "label": "Portland",
+    "type": "city"
+  },
+  {
+    "value": "37648",
+    "label": "Powell",
+    "type": "city"
+  },
+  {
+    "value": "37859",
+    "label": "Primm Springs",
+    "type": "city"
+  },
+  {
+    "value": "37883",
+    "label": "Princeton",
+    "type": "city"
+  },
+  {
+    "value": "37955",
+    "label": "Prospect",
+    "type": "city"
+  },
+  {
+    "value": "38039",
+    "label": "Pulaski",
+    "type": "city"
+  },
+  {
+    "value": "38086",
+    "label": "Puryear",
+    "type": "city"
+  },
+  {
+    "value": "38177",
+    "label": "Quebeck",
+    "type": "city"
+  },
+  {
+    "value": "38344",
+    "label": "Rainsville",
+    "type": "city"
+  },
+  {
+    "value": "38373",
+    "label": "Ramer",
+    "type": "city"
+  },
+  {
+    "value": "38469",
+    "label": "Ranger",
+    "type": "city"
+  },
+  {
+    "value": "38640",
+    "label": "Readyville",
+    "type": "city"
+  },
+  {
+    "value": "38641",
+    "label": "Reagan",
+    "type": "city"
+  },
+  {
+    "value": "38670",
+    "label": "Red Boiling Springs",
+    "type": "city"
+  },
+  {
+    "value": "38909",
+    "label": "Reliance",
+    "type": "city"
+  },
+  {
+    "value": "39058",
+    "label": "Resaca",
+    "type": "city"
+  },
+  {
+    "value": "39180",
+    "label": "Riceville",
+    "type": "city"
+  },
+  {
+    "value": "39307",
+    "label": "Rickman",
+    "type": "city"
+  },
+  {
+    "value": "39314",
+    "label": "Riddleton",
+    "type": "city"
+  },
+  {
+    "value": "39343",
+    "label": "Ridgely",
+    "type": "city"
+  },
+  {
+    "value": "39422",
+    "label": "Ringgold",
+    "type": "city"
+  },
+  {
+    "value": "39481",
+    "label": "Ripley",
+    "type": "city"
+  },
+  {
+    "value": "39493",
+    "label": "Rising Fawn",
+    "type": "city"
+  },
+  {
+    "value": "39618",
+    "label": "Rives",
+    "type": "city"
+  },
+  {
+    "value": "39638",
+    "label": "Roan Mountain",
+    "type": "city"
+  },
+  {
+    "value": "39666",
+    "label": "Robbins",
+    "type": "city"
+  },
+  {
+    "value": "39791",
+    "label": "Rock Island",
+    "type": "city"
+  },
+  {
+    "value": "39802",
+    "label": "Rock Spring",
+    "type": "city"
+  },
+  {
+    "value": "39838",
+    "label": "Rockfield",
+    "type": "city"
+  },
+  {
+    "value": "39877",
+    "label": "Rockmart",
+    "type": "city"
+  },
+  {
+    "value": "39895",
+    "label": "Rockvale",
+    "type": "city"
+  },
+  {
+    "value": "39921",
+    "label": "Rockwood",
+    "type": "city"
+  },
+  {
+    "value": "39932",
+    "label": "Rocky Face",
+    "type": "city"
+  },
+  {
+    "value": "40005",
+    "label": "Rogersville",
+    "type": "city"
+  },
+  {
+    "value": "40002",
+    "label": "Rogersville",
+    "type": "city"
+  },
+  {
+    "value": "40060",
+    "label": "Rome",
+    "type": "city"
+  },
+  {
+    "value": "40293",
+    "label": "Rossville",
+    "type": "city"
+  },
+  {
+    "value": "40357",
+    "label": "Roundhill",
+    "type": "city"
+  },
+  {
+    "value": "40600",
+    "label": "Russellville",
+    "type": "city"
+  },
+  {
+    "value": "40604",
+    "label": "Russellville",
+    "type": "city"
+  },
+  {
+    "value": "40597",
+    "label": "Russellville",
+    "type": "city"
+  },
+  {
+    "value": "40630",
+    "label": "Rutherford",
+    "type": "city"
+  },
+  {
+    "value": "40656",
+    "label": "Rutledge",
+    "type": "city"
+  },
+  {
+    "value": "40926",
+    "label": "Saint Joseph",
+    "type": "city"
+  },
+  {
+    "value": "41050",
+    "label": "Sale Creek",
+    "type": "city"
+  },
+  {
+    "value": "41156",
+    "label": "Saltillo",
+    "type": "city"
+  },
+  {
+    "value": "41476",
+    "label": "Santa Fe",
+    "type": "city"
+  },
+  {
+    "value": "41563",
+    "label": "Sardis",
+    "type": "city"
+  },
+  {
+    "value": "41619",
+    "label": "Saulsbury",
+    "type": "city"
+  },
+  {
+    "value": "41645",
+    "label": "Savannah",
+    "type": "city"
+  },
+  {
+    "value": "41868",
+    "label": "Scotts Hill",
+    "type": "city"
+  },
+  {
+    "value": "41872",
+    "label": "Scottsboro",
+    "type": "city"
+  },
+  {
+    "value": "41880",
+    "label": "Scottsville",
+    "type": "city"
+  },
+  {
+    "value": "42072",
+    "label": "Section",
+    "type": "city"
+  },
+  {
+    "value": "42078",
+    "label": "Sedalia",
+    "type": "city"
+  },
+  {
+    "value": "42153",
+    "label": "Selmer",
+    "type": "city"
+  },
+  {
+    "value": "42204",
+    "label": "Sequatchie",
+    "type": "city"
+  },
+  {
+    "value": "42253",
+    "label": "Sevierville",
+    "type": "city"
+  },
+  {
+    "value": "42260",
+    "label": "Sewanee",
+    "type": "city"
+  },
+  {
+    "value": "42285",
+    "label": "Seymour",
+    "type": "city"
+  },
+  {
+    "value": "42409",
+    "label": "Sharon",
+    "type": "city"
+  },
+  {
+    "value": "42413",
+    "label": "Sharon Grove",
+    "type": "city"
+  },
+  {
+    "value": "42428",
+    "label": "Sharps Chapel",
+    "type": "city"
+  },
+  {
+    "value": "42498",
+    "label": "Sheffield",
+    "type": "city"
+  },
+  {
+    "value": "42525",
+    "label": "Shelby",
+    "type": "city"
+  },
+  {
+    "value": "42540",
+    "label": "Shelbyville",
+    "type": "city"
+  },
+  {
+    "value": "42607",
+    "label": "Shepherdsville",
+    "type": "city"
+  },
+  {
+    "value": "42675",
+    "label": "Sherwood",
+    "type": "city"
+  },
+  {
+    "value": "42705",
+    "label": "Shiloh",
+    "type": "city"
+  },
+  {
+    "value": "42903",
+    "label": "Signal Mountain",
+    "type": "city"
+  },
+  {
+    "value": "42985",
+    "label": "Silver Point",
+    "type": "city"
+  },
+  {
+    "value": "43185",
+    "label": "Slaughters",
+    "type": "city"
+  },
+  {
+    "value": "43276",
+    "label": "Smiths Grove",
+    "type": "city"
+  },
+  {
+    "value": "43295",
+    "label": "Smithville",
+    "type": "city"
+  },
+  {
+    "value": "43326",
+    "label": "Smyrna",
+    "type": "city"
+  },
+  {
+    "value": "43403",
+    "label": "Soddy Daisy",
+    "type": "city"
+  },
+  {
+    "value": "43489",
+    "label": "Somerville",
+    "type": "city"
+  },
+  {
+    "value": "43666",
+    "label": "South Fulton",
+    "type": "city"
+  },
+  {
+    "value": "43797",
+    "label": "South Pittsburg",
+    "type": "city"
+  },
+  {
+    "value": "43953",
+    "label": "Southside",
+    "type": "city"
+  },
+  {
+    "value": "44014",
+    "label": "Sparta",
+    "type": "city"
+  },
+  {
+    "value": "44042",
+    "label": "Speedwell",
+    "type": "city"
+  },
+  {
+    "value": "44064",
+    "label": "Spencer",
+    "type": "city"
+  },
+  {
+    "value": "44147",
+    "label": "Spring City",
+    "type": "city"
+  },
+  {
+    "value": "44184",
+    "label": "Spring Hill",
+    "type": "city"
+  },
+  {
+    "value": "44268",
+    "label": "Springfield",
+    "type": "city"
+  },
+  {
+    "value": "44308",
+    "label": "Springville",
+    "type": "city"
+  },
+  {
+    "value": "44450",
+    "label": "Stanton",
+    "type": "city"
+  },
+  {
+    "value": "44455",
+    "label": "Stantonville",
+    "type": "city"
+  },
+  {
+    "value": "44676",
+    "label": "Stevenson",
+    "type": "city"
+  },
+  {
+    "value": "44696",
+    "label": "Stewart",
+    "type": "city"
+  },
+  {
+    "value": "44995",
+    "label": "Strawberry Plains",
+    "type": "city"
+  },
+  {
+    "value": "45140",
+    "label": "Sugar Tree",
+    "type": "city"
+  },
+  {
+    "value": "45142",
+    "label": "Sugar Valley",
+    "type": "city"
+  },
+  {
+    "value": "45230",
+    "label": "Summertown",
+    "type": "city"
+  },
+  {
+    "value": "45231",
+    "label": "Summerville",
+    "type": "city"
+  },
+  {
+    "value": "45313",
+    "label": "Sunbright",
+    "type": "city"
+  },
+  {
+    "value": "45573",
+    "label": "Sweetwater",
+    "type": "city"
+  },
+  {
+    "value": "45643",
+    "label": "Sylvania",
+    "type": "city"
+  },
+  {
+    "value": "45660",
+    "label": "Symsonia",
+    "type": "city"
+  },
+  {
+    "value": "45707",
+    "label": "Taft",
+    "type": "city"
+  },
+  {
+    "value": "45738",
+    "label": "Talbott",
+    "type": "city"
+  },
+  {
+    "value": "45756",
+    "label": "Tallapoosa",
+    "type": "city"
+  },
+  {
+    "value": "45759",
+    "label": "Tallassee",
+    "type": "city"
+  },
+  {
+    "value": "45944",
+    "label": "Tazewell",
+    "type": "city"
+  },
+  {
+    "value": "45993",
+    "label": "Tellico Plains",
+    "type": "city"
+  },
+  {
+    "value": "46003",
+    "label": "Temple",
+    "type": "city"
+  },
+  {
+    "value": "46026",
+    "label": "Ten Mile",
+    "type": "city"
+  },
+  {
+    "value": "46044",
+    "label": "Tennessee Ridge",
+    "type": "city"
+  },
+  {
+    "value": "46248",
+    "label": "Thompsons Station",
+    "type": "city"
+  },
+  {
+    "value": "46263",
+    "label": "Thorn Hill",
+    "type": "city"
+  },
+  {
+    "value": "46625",
+    "label": "Tompkinsville",
+    "type": "city"
+  },
+  {
+    "value": "46632",
+    "label": "Toney",
+    "type": "city"
+  },
+  {
+    "value": "46651",
+    "label": "Toone",
+    "type": "city"
+  },
+  {
+    "value": "46755",
+    "label": "Townsend",
+    "type": "city"
+  },
+  {
+    "value": "46780",
+    "label": "Tracy City",
+    "type": "city"
+  },
+  {
+    "value": "46857",
+    "label": "Trenton",
+    "type": "city"
+  },
+  {
+    "value": "46861",
+    "label": "Trenton",
+    "type": "city"
+  },
+  {
+    "value": "46872",
+    "label": "Trenton",
+    "type": "city"
+  },
+  {
+    "value": "46890",
+    "label": "Trezevant",
+    "type": "city"
+  },
+  {
+    "value": "46914",
+    "label": "Trimble",
+    "type": "city"
+  },
+  {
+    "value": "46934",
+    "label": "Trion",
+    "type": "city"
+  },
+  {
+    "value": "47006",
+    "label": "Troy",
+    "type": "city"
+  },
+  {
+    "value": "47084",
+    "label": "Tullahoma",
+    "type": "city"
+  },
+  {
+    "value": "47107",
+    "label": "Tunnel Hill",
+    "type": "city"
+  },
+  {
+    "value": "47180",
+    "label": "Turtletown",
+    "type": "city"
+  },
+  {
+    "value": "47196",
+    "label": "Tuscumbia",
+    "type": "city"
+  },
+  {
+    "value": "47431",
+    "label": "Union City",
+    "type": "city"
+  },
+  {
+    "value": "47494",
+    "label": "Unionville",
+    "type": "city"
+  },
+  {
+    "value": "48673",
+    "label": "Valley Head",
+    "type": "city"
+  },
+  {
+    "value": "48799",
+    "label": "Vanleer",
+    "type": "city"
+  },
+  {
+    "value": "49351",
+    "label": "Vine Grove",
+    "type": "city"
+  },
+  {
+    "value": "49356",
+    "label": "Vinemont",
+    "type": "city"
+  },
+  {
+    "value": "49388",
+    "label": "Viola",
+    "type": "city"
+  },
+  {
+    "value": "49485",
+    "label": "Vonore",
+    "type": "city"
+  },
+  {
+    "value": "49736",
+    "label": "Walland",
+    "type": "city"
+  },
+  {
+    "value": "49744",
+    "label": "Walling",
+    "type": "city"
+  },
+  {
+    "value": "50026",
+    "label": "Wartburg",
+    "type": "city"
+  },
+  {
+    "value": "50029",
+    "label": "Wartrace",
+    "type": "city"
+  },
+  {
+    "value": "50159",
+    "label": "Waterloo",
+    "type": "city"
+  },
+  {
+    "value": "50188",
+    "label": "Watertown",
+    "type": "city"
+  },
+  {
+    "value": "50307",
+    "label": "Waverly",
+    "type": "city"
+  },
+  {
+    "value": "50353",
+    "label": "Waynesboro",
+    "type": "city"
+  },
+  {
+    "value": "51267",
+    "label": "Westmoreland",
+    "type": "city"
+  },
+  {
+    "value": "51310",
+    "label": "Westpoint",
+    "type": "city"
+  },
+  {
+    "value": "51322",
+    "label": "Westport",
+    "type": "city"
+  },
+  {
+    "value": "51491",
+    "label": "White Bluff",
+    "type": "city"
+  },
+  {
+    "value": "51525",
+    "label": "White House",
+    "type": "city"
+  },
+  {
+    "value": "51554",
+    "label": "White Pine",
+    "type": "city"
+  },
+  {
+    "value": "51633",
+    "label": "Whites Creek",
+    "type": "city"
+  },
+  {
+    "value": "51646",
+    "label": "Whiteside",
+    "type": "city"
+  },
+  {
+    "value": "51652",
+    "label": "Whitesville",
+    "type": "city"
+  },
+  {
+    "value": "51662",
+    "label": "Whiteville",
+    "type": "city"
+  },
+  {
+    "value": "51690",
+    "label": "Whitleyville",
+    "type": "city"
+  },
+  {
+    "value": "51724",
+    "label": "Whitwell",
+    "type": "city"
+  },
+  {
+    "value": "51796",
+    "label": "Wilder",
+    "type": "city"
+  },
+  {
+    "value": "51800",
+    "label": "Wildersville",
+    "type": "city"
+  },
+  {
+    "value": "51811",
+    "label": "Wildwood",
+    "type": "city"
+  },
+  {
+    "value": "51919",
+    "label": "Williamsport",
+    "type": "city"
+  },
+  {
+    "value": "52130",
+    "label": "Winchester",
+    "type": "city"
+  },
+  {
+    "value": "52503",
+    "label": "Woodbury",
+    "type": "city"
+  },
+  {
+    "value": "52557",
+    "label": "Woodlawn",
+    "type": "city"
+  },
+  {
+    "value": "53026",
+    "label": "Yuma",
+    "type": "city"
+  }
+]
