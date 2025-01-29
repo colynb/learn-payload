@@ -6,7 +6,7 @@ import { Input } from '@/components/ui/input'
 import { LocationSelect } from '@/components/location-select'
 import locations from '@/data/locations'
 
-export const HeroWithSearch = () => {
+export const HeroWithSearch = ({ title }: { title: string }) => {
   const [keywords, setKeywords] = useState('')
   const [location] = useState('')
 
@@ -21,7 +21,7 @@ export const HeroWithSearch = () => {
         <div className="relative z-10">
           <div className="w-full lg:w-1/2 pr-6">
             <h1 className="font-black font-display uppercase text-5xl lg:text-6xl text-white mb-4">
-              Discover Your Dream Home in East Tennessee!
+              {title}
             </h1>
             <h2 className="text-3xl lg:text-4xl text-white mb-8 leading-snug">
               Your gateway to mountain living in America&apos;s adventure capital!

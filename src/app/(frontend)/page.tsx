@@ -1,9 +1,3 @@
-import { HeroWithSearch } from '@/blocks/heros/HeroWithSearch'
+import PageTemplate from './[slug]/page'
 
-export default function Home() {
-  return (
-    <div>
-      <HeroWithSearch />
-    </div>
-  )
-}
+export default PageTemplate

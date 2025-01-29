@@ -10,7 +10,8 @@ import sharp from 'sharp'
 import { Users } from './collections/Users'
 import { Media } from './collections/Media'
 import { emailAdapter } from './adapters/email'
-import { Products } from './collections/Products'
+import { Pages } from './collections/Pages'
+import { Homepage } from './globals/Homepage/config'
 
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
@@ -22,8 +23,9 @@ export default buildConfig({
       baseDir: path.resolve(dirname),
     },
   },
+  globals: [Homepage],
   email: emailAdapter,
-  collections: [Products, Users, Media],
+  collections: [Pages, Users, Media],
   editor: lexicalEditor(),
   secret: process.env.PAYLOAD_SECRET || '',
   typescript: {

@@ -11,7 +11,7 @@ export interface Config {
     users: UserAuthOperations;
   };
   collections: {
-    products: Product;
+    pages: Page;
     users: User;
     media: Media;
     'payload-locked-documents': PayloadLockedDocument;
@@ -20,7 +20,7 @@ export interface Config {
   };
   collectionsJoins: {};
   collectionsSelect: {
-    products: ProductsSelect<false> | ProductsSelect<true>;
+    pages: PagesSelect<false> | PagesSelect<true>;
     users: UsersSelect<false> | UsersSelect<true>;
     media: MediaSelect<false> | MediaSelect<true>;
     'payload-locked-documents': PayloadLockedDocumentsSelect<false> | PayloadLockedDocumentsSelect<true>;
@@ -30,8 +30,12 @@ export interface Config {
   db: {
     defaultIDType: number;
   };
-  globals: {};
-  globalsSelect: {};
+  globals: {
+    homepage: Homepage;
+  };
+  globalsSelect: {
+    homepage: HomepageSelect<false> | HomepageSelect<true>;
+  };
   locale: null;
   user: User & {
     collection: 'users';
@@ -61,14 +65,26 @@ export interface UserAuthOperations {
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
- * via the `definition` "products".
+ * via the `definition` "pages".
  */
-export interface Product {
+export interface Page {
   id: number;
-  name: string;
-  price: number;
+  title: string;
+  layout: HeroWithSearchBlock[];
+  publishedAt?: string | null;
+  slug?: string | null;
   updatedAt: string;
   createdAt: string;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "HeroWithSearchBlock".
+ */
+export interface HeroWithSearchBlock {
+  title: string;
+  id?: string | null;
+  blockName?: string | null;
+  blockType: 'heroWithSearch';
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
@@ -114,8 +130,8 @@ export interface PayloadLockedDocument {
   id: number;
   document?:
     | ({
-        relationTo: 'products';
-        value: number | Product;
+        relationTo: 'pages';
+        value: number | Page;
       } | null)
     | ({
         relationTo: 'users';
@@ -169,13 +185,28 @@ export interface PayloadMigration {
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
- * via the `definition` "products_select".
+ * via the `definition` "pages_select".
  */
-export interface ProductsSelect<T extends boolean = true> {
-  name?: T;
-  price?: T;
+export interface PagesSelect<T extends boolean = true> {
+  title?: T;
+  layout?:
+    | T
+    | {
+        heroWithSearch?: T | HeroWithSearchBlockSelect<T>;
+      };
+  publishedAt?: T;
+  slug?: T;
   updatedAt?: T;
   createdAt?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "HeroWithSearchBlock_select".
+ */
+export interface HeroWithSearchBlockSelect<T extends boolean = true> {
+  title?: T;
+  id?: T;
+  blockName?: T;
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
@@ -241,6 +272,26 @@ export interface PayloadMigrationsSelect<T extends boolean = true> {
   batch?: T;
   updatedAt?: T;
   createdAt?: T;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "homepage".
+ */
+export interface Homepage {
+  id: number;
+  page: number | Page;
+  updatedAt?: string | null;
+  createdAt?: string | null;
+}
+/**
+ * This interface was referenced by `Config`'s JSON-Schema
+ * via the `definition` "homepage_select".
+ */
+export interface HomepageSelect<T extends boolean = true> {
+  page?: T;
+  updatedAt?: T;
+  createdAt?: T;
+  globalType?: T;
 }
 /**
  * This interface was referenced by `Config`'s JSON-Schema
